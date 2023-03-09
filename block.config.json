@@ -1,0 +1,12 @@
+{
+  "name": "jkl",
+  "type": "package",
+  "blockId": "winS392oYwgCM3pd_FOGx",
+  "source": {
+    "https": "https://github.com/Digambaran/jkl",
+    "ssh": "git@github.com:Digambaran/jkl.git"
+  },
+  "supportedAppblockVersions": [
+    "2.0.0"
+  ]
+}
